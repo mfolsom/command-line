@@ -4,5 +4,8 @@ Allows you to move files or rename them.
 
 Example usage: 
 
+#rename a file
 mv my_file new_file
+
+#move a file from current location to new location
 mv my_file new_location/my_file
