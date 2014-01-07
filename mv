@@ -1,0 +1,8 @@
+mv 
+
+Allows you to move files or rename them. 
+
+Example usage: 
+
+mv my_file new_file
+mv my_file new_location/my_file
