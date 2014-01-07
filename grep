@@ -1,0 +1,12 @@
+grep
+
+search a file or directory of files for keywords
+
+Example Usage: 
+
+#search for "keyword" in a file named "myfile"
+grep keyword myfile
+
+#search for files containing "keyword" in the current git initalized directory
+git grep "keyword"
+
