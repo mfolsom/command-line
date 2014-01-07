@@ -1,0 +1,12 @@
+wc 
+
+word, line and character count
+
+Example Usage:
+
+#count the number of characters, words and lines in myfile
+wc myfile
+
+#show the number of files in the current directory with a .txt extension
+find . -name "*.txt" -print | wc -l
+
